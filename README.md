@@ -1,8 +1,9 @@
 # dev-programmers-assignment
 프로그래머스 데브코스 수행 중 진행했던 과제들
 
-## 발표 과제 
+## 스터디
 - [싱글톤 패턴](https://goofy-limburger-3f3.notion.site/07814ce70f714f18a95582aa3c6f4d5c)
+- [Blocking vs NonBlocking / Asyncchronous vs Synchronous](https://goofy-limburger-3f3.notion.site/Blocking-NonBlocking-Sync-vs-Async-I-O-1de973a480234da6aea248e0c69a6437)
 
 ## 코드 리뷰 과제
 - [객체지향적으로 계산기 만들기](https://github.com/jungyoonoh/java-calculator)
