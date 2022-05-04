@@ -4,6 +4,7 @@
 ## 스터디
 - [싱글톤 패턴](https://goofy-limburger-3f3.notion.site/07814ce70f714f18a95582aa3c6f4d5c)
 - [Blocking vs NonBlocking / Asyncchronous vs Synchronous](https://goofy-limburger-3f3.notion.site/Blocking-NonBlocking-Sync-vs-Async-I-O-1de973a480234da6aea248e0c69a6437)
+- [Index의 B-Tree](https://goofy-limburger-3f3.notion.site/Index-B-Tree-6b9a8f3d93894a22a563d6bf7445346f)
 
 ## 코드 리뷰 과제
 - [객체지향적으로 계산기 만들기](https://github.com/jungyoonoh/java-calculator)
